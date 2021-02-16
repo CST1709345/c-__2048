@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\software\VS\2048\2048\源.cpp(177,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\software\VS\2048\2048\源.cpp(257,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  2048.vcxproj -> D:\software\VS\2048\Debug\2048.exe
